@@ -55,7 +55,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 
     <div class="w3-third w3-center">
       <h2>Advertisment: Buy our new game!</h2>
-<img src="./Resource/4.png" alt="pokken" style="width:200px;height:200px;">
+      <a href="https://ebgames.com.au/featured/pokken-tournament-dx">
+    <img src="./Resource/4.png" alt="Pokken" style="width:200px;height:200px;">
+    </a>
     </div>
   </div>
 </div>
